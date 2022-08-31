@@ -7,6 +7,7 @@ public class Ex01 {
 		
 		// 두번 째 커밋 출력 만든뒤 --> 해당 내용을 깃허브 사이트로 올려주세요(push!)
 		System.out.println("두번쨰 커밋!!");
+		System.out.println("세번째 커밋!!");
 
 	}
 
